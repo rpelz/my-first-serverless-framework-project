@@ -1,0 +1,7 @@
+{
+  "name": "my-first-serverless-framework-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robert Pelz",
+  "license": "MIT"
+}
